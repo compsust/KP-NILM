@@ -3,9 +3,9 @@ NILM by using multiple-choice knapsack problem (MCKP).
 
 This is a naïve prototype/demonstration that was initially used when exploring different concepts of UNILM.
 
-If you use my code in your research please cite our UNILM research paper (APA example):
+If you use my code in your research please cite our UNILM research paper (IEEE example):
 
-Rodriguez-Silva, A., & Makonin, S. (2019). Universal Non-Intrusive Load Monitoring (UNILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps. arXiv preprint arXiv:1907.06299.
+A. Rodriguez-Silva and S. Makonin, “Universal Non-Intrusive Load Monitoring (UNILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps,” p. 6, 2019.
 
 Read more about UNILM on arXiv at [https://arxiv.org/abs/1907.06299](https://arxiv.org/abs/1907.06299).
 
